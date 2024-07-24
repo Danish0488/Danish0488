@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Danish0488
+- 👋 Hi, I’m Danish
 - 👀 I’m interested in ...python
 - 🌱 I’m currently learning ...python,c,
 - 💞️ I’m looking to collaborate on ...
